@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ef3e6fb9febd3f64b87fd35e0ed34f7c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Wildest
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 173cc6bc464b06245bd1d628920e5657, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
