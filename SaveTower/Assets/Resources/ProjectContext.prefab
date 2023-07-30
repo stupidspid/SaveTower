@@ -197,3 +197,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 53573c6e9f2624954afb547153734d79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  ninjaInstance: {fileID: 6910001417551275279, guid: 02c9c72a26566f44a82642cf8589f15a, type: 3}
+  warriorInstance: {fileID: 2785602907472651255, guid: d6daf6544c465734287bb7ea33566a90, type: 3}
